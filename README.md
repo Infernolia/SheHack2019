@@ -30,9 +30,9 @@ Enjoy your experience as you walk the quest to save our planet, Earth.
 
 
 
-A.  DOWNLOAD THE ZIP  FILE – ChatBOT.zip
+A.  DOWNLOAD THE Py FILE – Chatbot.py
 
-- Unzip the file and extract its contents using command line.
+- 
 - Create a local environment in the local command line and install the follwing packages:
 Note: Python version- 3.7.4 is to be used.
 1. Django: pip install django (version: 2.2.7)
@@ -47,7 +47,7 @@ B. OPEN THE DIRECTORY WHERE YOU HAVE EXTRACTED THE ZIP FILE.
 
 C. RUN THE FOLLOWING COMMANDS IN THE COMMAND LINE:
 
-1. python chatbot.py
+1. python Chatbot.py
 
 
 
