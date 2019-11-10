@@ -1,7 +1,7 @@
 # FinalSubmission
 Xertia- Shehack
 
-A.  DOWNLOAD THE ZIP  FILE – Xertia_EARTHX.zip
+A.  DOWNLOAD THE ZIP  FILE – database_forms-20191110T035654Z-001.zip
 
 - Unzip the file and extract its contents using command line.
 - Create a local environment in the local command line and install the follwing packages:
