@@ -1,5 +1,7 @@
-# FinalSubmission
-Xertia- Shehack
+# Gojek SheHack Hackathon 2019
+Team Xertia - Aboli Marathe, Saloni Parekh, Hrithvika Babar, Priyal Belgamwar
+
+Achieved <B>Top 6</B> rank in Hackathon for Earth-X, a carbon footprint monitoring game to save the planet from harmful emissions.
 
 A.  DOWNLOAD THE ZIP  FILE – database_forms-20191110T035654Z-001.zip
 
