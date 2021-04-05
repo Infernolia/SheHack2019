@@ -34,7 +34,6 @@ Enjoy your experience as you walk the quest to save our planet, Earth.
 
 A.  DOWNLOAD THE Py FILE – Chatbot.py
 
-- 
 - Create a local environment in the local command line and install the follwing packages:
 Note: Python version- 3.7.4 is to be used.
 1. Django: pip install django (version: 2.2.7)
