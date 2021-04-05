@@ -52,3 +52,5 @@ C. RUN THE FOLLOWING COMMANDS IN THE COMMAND LINE:
 
 
 Enjoy your experience as you talk through the quest to save our planet, Earth.
+
+Here is a sample video demonstrating the application: https://drive.google.com/file/d/1R7oL1JTM4d4dtIyalsBBDbVqltCVObSh/view?usp=sharing
